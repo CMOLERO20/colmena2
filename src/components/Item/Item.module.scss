@@ -1,0 +1,14 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid plum;
+    max-width: 250px;
+    background-color: white;
+    padding: 2%;
+    border-radius: 15%;
+}
+
+img {
+    width: 100px;
+}
